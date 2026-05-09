@@ -100,3 +100,12 @@ Potential extensions include:
 ---
 
 ## 
+
+👤 Author
+
+Akpojotor Emmanuel Oghenechovwe
+nou224068313@noun.edu.ng
+
+⭐ Support
+
+If you found this project useful, consider giving it a star ⭐
